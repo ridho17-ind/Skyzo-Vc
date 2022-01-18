@@ -1,5 +1,5 @@
 git+https://github.com/subinps/pyrogram.git@session
-py-tgcalls==0.8.2
+py-tgcalls==0.8.4
 parse-torrent-name
 tgcrypto
 yt-dlp
